@@ -9,7 +9,7 @@ package sales;
  * @author ross
  */
 public class Sales {
-    // main driver
+    // main driver for sales
     public static void main(String[] args){
         SalesDriver s = new SalesDriver();
         for (int i=0; i < 7; i++){
